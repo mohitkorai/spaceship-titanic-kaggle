@@ -1,5 +1,4 @@
-# spaceship-titanic-kaggle
-Classification project using CatBoost, SVM, pseudo-labeling, and threshold tuning — Top 4.5% on Kaggle Spaceship Titanic competition (80.874% score)
+
 # 🚀 Spaceship Titanic - Kaggle ML Project
 
 This project addresses the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) classification challenge on Kaggle. The goal is to predict whether passengers were transported to an alternate dimension, using demographic and travel-related features.
