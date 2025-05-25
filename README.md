@@ -74,7 +74,7 @@ This notebook demonstrates a complete machine learning pipeline:
 ## 📌 Author
 
 **Mohit Venkata Rama Swamy Korai**  
-Machine Learning & Data Science Enthusiast  
+Data Science and Machine Learning professional  
 [GitHub](https://github.com/mohitkorai) • [Kaggle](https://www.kaggle.com/mohitkorai) • [LinkedIn](https://www.linkedin.com/in/venkatasw/)
 
 ---
