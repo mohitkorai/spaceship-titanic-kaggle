@@ -5,7 +5,7 @@ Classification project using CatBoost, SVM, pseudo-labeling, and threshold tunin
 This project addresses the [Spaceship Titanic](https://www.kaggle.com/competitions/spaceship-titanic) classification challenge on Kaggle. The goal is to predict whether passengers were transported to an alternate dimension, using demographic and travel-related features.
 
 🎯 **Final Kaggle Score:** 80.874%  
-🏅 **Leaderboard Rank:** Top 90 of 2,022 (Top 4.5%)
+🏅 **Leaderboard Rank (as of May 2025):** Top 90 of 2,022 (Top 4.5%)
 
 ---
 
@@ -76,7 +76,7 @@ This notebook demonstrates a complete machine learning pipeline:
 
 **Mohit Venkata Rama Swamy Korai**  
 Machine Learning & Data Science Enthusiast  
-[GitHub](https://github.com/mohitkorai) • [Kaggle](https://www.kaggle.com/mohitkorai) • [LinkedIn](www.linkedin.com/in/venkatasw)
+[GitHub](https://github.com/mohitkorai) • [Kaggle](https://www.kaggle.com/mohitkorai) • [LinkedIn](https://www.linkedin.com/in/venkatasw/)
 
 ---
 
